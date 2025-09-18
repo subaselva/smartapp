@@ -23,6 +23,13 @@ A clean architecture–based ASP.NET Core 9.0 application for managing restauran
   - `Infrastructure` → Implementations (EF Core, SendGrid)
   - `API` → Entry point & Dependency Injection
 
+## 🏗️ Database & Class Model
+
+The following diagram shows the entities, primary keys, and foreign key relationships used in the application:
+
+<img width="1684" height="604" alt="image" src="https://github.com/user-attachments/assets/5df7281a-4f59-43d5-9759-8e19de48d9fb" />
+
+
 ## 📖 API Documentation
 
 The API is documented using **Swagger UI**:
