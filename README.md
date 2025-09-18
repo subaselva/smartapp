@@ -15,11 +15,16 @@ A clean architecture–based ASP.NET Core 9.0 application for managing restauran
 
 ## ⚙️ Tech Stack
 - **.NET 9.0 (ASP.NET Core Web API)**
-- **Entity Framework Core** (SQL Server / PostgreSQL)
+- **Entity Framework Core** (SQL Server )
 - **SendGrid** (Email notifications)
 - **Clean Architecture** principles
   - `Domain` → Entities & core logic
   - `Application` → Interfaces & Use Cases
   - `Infrastructure` → Implementations (EF Core, SendGrid)
   - `API` → Entry point & Dependency Injection
+
+## 📖 API Documentation
+
+The API is documented using **Swagger UI**:
+<img width="1901" height="882" alt="image" src="https://github.com/user-attachments/assets/81cf31e9-9144-4298-94d5-204091b44283" />
 
