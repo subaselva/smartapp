@@ -1,0 +1,15 @@
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\bin\Debug\net9.0\SmartApp.Domain.deps.json
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\bin\Debug\net9.0\SmartApp.Domain.dll
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\bin\Debug\net9.0\SmartApp.Domain.pdb
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\obj\Debug\net9.0\SmartApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\obj\Debug\net9.0\SmartApp.Domain.AssemblyInfoInputs.cache
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\obj\Debug\net9.0\SmartApp.Domain.AssemblyInfo.cs
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\obj\Debug\net9.0\SmartApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\obj\Debug\net9.0\SmartApp.Domain.sourcelink.json
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\obj\Debug\net9.0\SmartApp.Domain.dll
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\obj\Debug\net9.0\refint\SmartApp.Domain.dll
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\obj\Debug\net9.0\SmartApp.Domain.pdb
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\obj\Debug\net9.0\ref\SmartApp.Domain.dll
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\bin\Debug\net9.0\SmartApp.Domain.runtimeconfig.json
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\obj\Debug\net9.0\SmartApp.Domain.csproj.AssemblyReference.cache
+C:\Users\selva\source\repos\Knila_Project\Knila\SmartApp.Domain\obj\Debug\net9.0\SmartApp.Domain.genruntimeconfig.cache
